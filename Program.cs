@@ -20,7 +20,7 @@ namespace ControllerDI
     {
         public void View(string model)
         {
-            //PieChart view code
+            //Table view code
             Console.WriteLine(model + " TableView view activated");
         }
     }
@@ -29,7 +29,7 @@ namespace ControllerDI
     {
         public void View(string model)
         {
-            //PieChart view code
+            //BarChart view code
             Console.WriteLine(model + " BarChart view activated");
         }
     }
