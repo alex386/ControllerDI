@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerDI", "ControllerDI.csproj", "{45EBD04F-1D4F-441F-826A-75FD4191EE3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EBD04F-1D4F-441F-826A-75FD4191EE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EBD04F-1D4F-441F-826A-75FD4191EE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EBD04F-1D4F-441F-826A-75FD4191EE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EBD04F-1D4F-441F-826A-75FD4191EE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F07716C-3B44-450B-916E-09824A2E5D34}
+	EndGlobalSection
+EndGlobal
